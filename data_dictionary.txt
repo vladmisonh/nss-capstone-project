@@ -1,0 +1,26 @@
+# Data Dictionary for 04_housing_data_enriched_icpsr.csv
+
+| Column Name                           | Description                                                                                          |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **RegionID**                          | Unique identifier for the region (Zillow's internal ID).                                             |
+| **RegionName**                        | Name of the metro area or region (e.g., 'Los Angeles, CA').                                          |
+| **RegionType**                        | Type of the region (e.g., 'msa' for metro statistical area or 'country' for United States).          |
+| **StateName**                         | Two-letter abbreviation of the U.S. state (e.g., 'CA' for California).                               |
+| **SizeRank**                          | Population-based rank of the metro area (1 = largest).                                               |
+| **Date**                              | Date of observation (end of the month), in `YYYY-MM-DD` format.                                      |
+| **ZHVI\_AllHomes**                    | Zillow Home Value Index for all home types in the region (USD).                                      |
+| **ZHVI\_SingleFamily**                | Zillow Home Value Index for single-family homes (USD).                                               |
+| **ZHVI\_Condo**                       | Zillow Home Value Index for condos/co-ops (USD).                                                     |
+| **SalesCount\_SFR**                   | Number of single-family residences sold in the month.                                                |
+| **Inventory\_SFR**                    | Inventory count of single-family residences listed in the month.                                     |
+| **Year**                              | Extracted calendar year from the `Date` column (e.g., 2019).                                         |
+| **Month**                             | Extracted calendar month from the `Date` column (1–12).                                              |
+| **Unemployment\_Rate**                | Monthly state-level unemployment rate (%).                                                           |
+| **Median\_Income**                    | Annual median household income in the state (USD).                                                   |
+| **Population**                        | Estimated total population of the state in the given year.                                           |
+| **Num\_Major\_Disasters\_Last\_12mo** | Number of FEMA-declared major disasters (disaster type 'DR') in the past 12 months.                  |
+| **Major\_Disaster\_Declared**         | Binary flag (1 = Yes, 0 = No) indicating whether a major disaster was declared in the current month. |
+| **Most\_Recent\_Disaster\_Type**      | Type of the most recent FEMA-declared disaster (e.g., Fire, Flood, Hurricane).                       |
+| **StateFull**                         | Full state name (e.g., 'California', 'New York').                                                    |
+| **Sales\_Tax**                        | Combined state and local sales tax rate for the corresponding state and year (%).                    |
+| **Income\_Tax**                       | Top marginal individual state income tax rate for the corresponding state and year (%).              |
