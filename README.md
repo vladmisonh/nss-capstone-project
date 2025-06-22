@@ -32,7 +32,7 @@ This is my **Capstone Project** for the **Part-Time Data Analytics Bootcamp at N
 - **ICPSR Tax Data:** [County Tax Panel](https://www.openicpsr.org/openicpsr/project/208462/version/V1/view?path=/openicpsr/208462/fcr:versions/V1/BJK_County_Tax_Panel_public.dta&type=file)
 
 ## Final Dashboard & Presentation
-- **Power BI Dashboard:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWQxZTYwNDctYzlhMi00NzA1LThmNjYtYTMyZTQzMWQ1NDIzIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
+- **Power BI Dashboard:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWQxZTYwNDctYzlhMi00NzA1LThmNjYtYTMyZTQzMWQ1NDIzIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&pageName=ecb91aa0200ea8e28158)
 - **Google Slides Presentation:** [View Slides](https://docs.google.com/presentation/d/1bsOYWHCgF0YcIYLiVOZjiaN8MXQ4EOiGWQnXtJ36YAA/edit?usp=sharing)
 
 ## About Me
