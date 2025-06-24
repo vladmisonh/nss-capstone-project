@@ -33,7 +33,7 @@ This is my **Capstone Project** for the **Part-Time Data Analytics Bootcamp at N
 
 ## Final Dashboard & Presentation
 - **Power BI Dashboard:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWQxZTYwNDctYzlhMi00NzA1LThmNjYtYTMyZTQzMWQ1NDIzIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&pageName=ecb91aa0200ea8e28158)
-- **Google Slides Presentation:** [View Slides](https://docs.google.com/presentation/d/1bsOYWHCgF0YcIYLiVOZjiaN8MXQ4EOiGWQnXtJ36YAA/edit?usp=sharing)
+- **Canva Presentation:** [View Slides](https://www.canva.com/design/DAGrH6wOloU/Ws_HFqKE4cRo9RSYNHTE-A/view)
 
 ## About Me
 Hi! I’m **Vladyslav Misonh**, a data analyst with a background in computer mathematics and a passion for solving real-world problems through data.
